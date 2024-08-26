@@ -1,0 +1,22 @@
+#nav{
+    display: flex;
+  justify-content: space-evenly;
+
+}
+li{
+    list-style-type: none;
+    text-decoration: none;
+}
+a{
+    color: black;
+}
+#outr{
+    margin-left: 150px;
+    border: 3px dotted red;
+    height: 400px;
+     width: 400px;
+
+}
+*{
+    text-align: center;
+}

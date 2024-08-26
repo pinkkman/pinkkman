@@ -1,0 +1,21 @@
+#div{
+    height: 60px;
+    background-color: black;
+    color: white;
+    position: sticky;
+    top: 0;
+    
+}
+#button{
+    background-color : #f08804;
+}
+a{
+    margin-right: 200px;
+}
+#footer{
+    height: 40px;
+    background-color: blueviolet;
+    color:deeppink;
+    position: sticky;
+    bottom: 0;
+}
