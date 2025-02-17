@@ -1,0 +1,35 @@
+body{
+    background-color: #3A86FF;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+height: 40vh;
+display: flex;
+justify-content: center;
+
+}
+
+
+.counter{
+    background-color: #FF006E;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 3px dotted #FFBE0B ;
+    font-size: x-large;
+}
+
+.rstbtn{
+    height: 60px;
+    width: 130px;
+    background-color: #FFBE0B;
+   font-size: larger;
+}
+.container2{
+   display: flex;
+   justify-content: center;
+}
