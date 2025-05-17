@@ -1,0 +1,25 @@
+.aboutcon{
+    position: relative;
+       width: 100%;
+    height: 1300px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.aboutinfo{
+    width: 65%;
+    position:absolute;
+ top: 10%;
+color: white;
+}
+.abouth{
+        font-family: 'Poppins', sans-serif;
+}
+
+p{
+    margin-top: 30px;
+}
+.aboutimg{
+    margin-top: 50px;
+   width: 100%;
+}
