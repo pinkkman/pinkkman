@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm PinkMan (a.k.a the guy who breaks stuff just to fix it cooler 😎)
+## 👋 Hey there, I'm PinkMan (a.k.a the guy who breaks stuff just to fix it cooler )
 
 🔧 **First Year BTech Computer-Engineering** | 🚀 Building web things | 🤖 AI/ML curious  
 💻 Currently hacking away with: `C++`, `Express.js`, `MongoDB`, and `Node.js`  
