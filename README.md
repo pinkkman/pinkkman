@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm PinkMan (a.k.a the guy who breaks stuff just to fix it cooler 😎)
 
-🔧 **First Year BTech CSE** | 🚀 Building web things | 🤖 AI/ML curious  
-💻 Currently hacking away with: `C++`, `Express.js`, `MongoDB`, and `React`  
+🔧 **First Year BTech Computer-Engineering** | 🚀 Building web things | 🤖 AI/ML curious  
+💻 Currently hacking away with: `C++`, `Express.js`, `MongoDB`, and `Node.js`  
 📚 Recursing through DSA | Experimenting with LLMs | Docker rookie on the rise  
 
 ---
