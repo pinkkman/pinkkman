@@ -1,6 +1,6 @@
 ## 👋 Heyy , I'm Misbah (a.k.a the guy who breaks stuff just to fix it cooler )
 
-🔧 **First Year BTech Computer-Engineering** | 🚀 Building web things | 🤖 AI/ML curious  
+🔧 **Third Year BTech Computer-Engineering** | 🚀 Building web things | 🤖 AI/ML curious  
 💻 Currently hacking away with: `C++`, `Express.js`, `MongoDB`, and `Node.js`  
 📚 Recursing through DSA | Experimenting with LLMs | Docker rookie on the rise  
 
