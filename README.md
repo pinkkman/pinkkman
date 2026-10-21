@@ -1,6 +1,6 @@
 # 👋 Heyy, I'm Misbah
 
-### *a.k.a. the guy who breaks stuff just to fix it cooler 😭*
+### *a.k.a. the guy who breaks stuff just to fix it cooler *
 
 🎓 **Third Year B.Tech Computer Engineering @ OUTR Bhubaneswar**
 💻 **Full-Stack Developer** | 🧠 **DSA in C++** | 🤖 **AI/LLM Curious**
